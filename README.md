@@ -1,1 +1,1 @@
-# Sensing-approachers-using-Ultrasonic-sensor-to-control-servo-motor
+# Sensing approachers using Ultrasonic sensor to control Servo motors
